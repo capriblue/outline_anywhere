@@ -1,0 +1,5 @@
+
+tls:
+  certificates:
+    - certFile: "/etc/traefik/tsl.crt"
+      keyFile: "/etc/traefik/tsl.key"
